@@ -46,7 +46,7 @@ while True:
     print("MAC Address", s.recv(1024).decode())
 ```
 
-## OUPUT - ARP:
+## OUTPUT - ARP:
 
 <img width="1871" height="1007" alt="Screenshot 2026-05-20 201847" src="https://github.com/user-attachments/assets/29f7e102-4560-42fe-b6b2-096e0443e104" />
 
@@ -80,7 +80,7 @@ while True:
     print("Logical Address :", s.recv(1024).decode())
 ```
 
-## OUPUT -RARP:
+## OUTPUT -RARP:
 
 <img width="1846" height="963" alt="Screenshot 2026-05-20 202314" src="https://github.com/user-attachments/assets/1073332a-d081-4182-ab17-bd3d9aad3109" />
 
